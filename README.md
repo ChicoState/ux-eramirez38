@@ -1,3 +1,4 @@
 # Elian's UX Journal
-![User interface](assets/IMG_2927.jpeg)
+<img src="image-url" width="SIZE" height="SIZE">
+
 Computer Science student from Modesto, CA.
