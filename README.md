@@ -4,4 +4,4 @@
 Computer Science student from Modesto, CA.
 
 ## Journal
-- (j01.md)
+- (j01.html)
