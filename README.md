@@ -4,4 +4,4 @@
 Computer Science student from Modesto, CA.
 
 ## Journal
-- (j01.html)
+- [Figma’s Consistent Inconsistencies](j01.html)
